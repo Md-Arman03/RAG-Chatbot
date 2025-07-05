@@ -50,7 +50,7 @@ activate it type(.venv/Scripts/activate  # or .venv\Scripts\activate.bat (Window
 pip install -r requirements.txt
 ## create .env file
 write inside the .env file(
-MODEL_BASE_URL="https://generativelanguage.googleapis.com/v1beta/openai/"
+MODEL_BASE_URL="write here your api key wich is created by goole ai studio/"
 MODEL_API_KEY=C
 MODEL_NAME="gemini-2.0-flash"
 CHROMA_COLLECTION_NAME="rag_collection")
